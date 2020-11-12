@@ -1,4 +1,7 @@
-# React Native Swipeable [![NPM version][npm-image]][npm-url]
+## EDIT
+This is for from original repo at npm, but made some updates hence original one isn't updated. 
+
+## Original explanation below:
 
 A powerful React Native swipe component.  Supports both iOS and Android.
 
@@ -7,7 +10,7 @@ A powerful React Native swipe component.  Supports both iOS and Android.
 ## Installation
 
 ```sh
-npm i --save react-native-swipeable
+https://github.com/igorjos/react-native-swipeable.git
 ```
 
 ## Usage
